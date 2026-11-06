@@ -6,6 +6,7 @@ My daily solved problem on leetcode
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mkgirmaleta-creator/Python-pract_/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/mkgirmaleta-creator/Python-pract_/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -14,4 +15,5 @@ My daily solved problem on leetcode
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mkgirmaleta-creator/Python-pract_/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/mkgirmaleta-creator/Python-pract_/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
