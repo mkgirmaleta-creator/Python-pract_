@@ -19,6 +19,7 @@ My daily solved problem on leetcode
 ## Array
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/mkgirmaleta-creator/Python-pract_/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/mkgirmaleta-creator/Python-pract_/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -28,4 +29,8 @@ My daily solved problem on leetcode
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mkgirmaleta-creator/Python-pract_/tree/master/0217-contains-duplicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/mkgirmaleta-creator/Python-pract_/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
