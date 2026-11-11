@@ -3,13 +3,9 @@ class Solution:
         c={}
         d={}
         for i in s:
-            if i in c:
-                c[i]+=1
-            else:c[i]=1
+            c[i]=c.get(i,0)+1
         for j in t:
-            if j in d:
-                d[j]+=1
-            else:d[j]=1
+            d[j]=d.get(j,0)+1
         return d==c
         
         
