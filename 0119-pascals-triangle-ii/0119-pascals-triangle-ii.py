@@ -1,16 +1,10 @@
 class Solution:
     def getRow(self, rowIndex: int) -> List[int]:
-
-        triangle = [[1]]
-
-        for i in range(1, rowIndex + 1):
-            previous = triangle[-1]
-            current = [1]
-
-            for j in range(1, i):
-                current.append(previous[j - 1] + previous[j])
-
-            current.append(1)
-            triangle.append(current)
-
-        return triangle[rowIndex]
+        a=[1]
+        for i in range(rowIndex):
+            p=[1]
+            for j in range(len(a)-1):
+                p.append(a[j]+a[j+1])
+            p.append(1)
+            a=p
+        return a
