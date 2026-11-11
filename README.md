@@ -25,12 +25,18 @@ My daily solved problem on leetcode
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mkgirmaleta-creator/Python-pract_/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mkgirmaleta-creator/Python-pract_/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mkgirmaleta-creator/Python-pract_/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mkgirmaleta-creator/Python-pract_/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/mkgirmaleta-creator/Python-pract_/tree/master/0119-pascals-triangle-ii) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/mkgirmaleta-creator/Python-pract_/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
